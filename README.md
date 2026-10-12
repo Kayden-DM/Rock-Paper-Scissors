@@ -1,3 +1,5 @@
+This README is made with AI
+
 ✂️ Python Rock Paper Scissors Game
 A simple command-line Rock Paper Scissors game built with Python. Players compete against the computer, with the score changing based on wins and losses. It's a great beginner project for learning about loops, conditionals, random selection, and score tracking in Python.
 
